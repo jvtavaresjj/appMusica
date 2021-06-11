@@ -1,0 +1,3 @@
+rootProject.name = "App de música"
+include ':app'
+include ':appdefilme'

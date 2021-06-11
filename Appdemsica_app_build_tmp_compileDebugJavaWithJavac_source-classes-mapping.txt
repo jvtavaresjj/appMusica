@@ -1,0 +1,19 @@
+com/example/appdemsica/adapter/Adapter.java
+ com.example.appdemsica.adapter.Adapter
+ com.example.appdemsica.adapter.Adapter$MyViewHolder
+com/example/appdemsica/activity/MainActivity.java
+ com.example.appdemsica.activity.MainActivity
+ com.example.appdemsica.activity.MainActivity$1
+com/example/appdemsica/BuildConfig.java
+ com.example.appdemsica.BuildConfig
+com/example/appdemsica/util/RecyclerItemClickListener.java
+ com.example.recyclerview.util.RecyclerItemClickListener
+ com.example.recyclerview.util.RecyclerItemClickListener$1
+ com.example.recyclerview.util.RecyclerItemClickListener$OnItemClickListener
+com/example/appdemsica/model/Musicas.java
+ com.example.appdemsica.model.Musicas
+com/example/appdemsica/activity/SegundaActivity.java
+ com.example.appdemsica.activity.SegundaActivity
+ com.example.appdemsica.activity.SegundaActivity$1
+ com.example.appdemsica.activity.SegundaActivity$2
+ com.example.appdemsica.activity.SegundaActivity$3
